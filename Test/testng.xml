@@ -5,6 +5,7 @@
   <classes>
   <class name="org.iit.Test.App"/>
   <class name="org.iit.Test.Utility"/>
+  <!-- class name=""/-->
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
