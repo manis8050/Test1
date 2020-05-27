@@ -13,6 +13,7 @@ public class Utility {
 
 	public static String getFutureDate(int days,String pattern)
 	{
+		//Adding a comment
 		Calendar cal = Calendar.getInstance();
 		cal.add(Calendar.DATE, days);
 		Date d=cal.getTime();
